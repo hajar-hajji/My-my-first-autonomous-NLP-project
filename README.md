@@ -1,2 +1,2 @@
 # My-my-first-autonomous-NLP-project
-performing some basic nlp operations on a fairy tale
+performing some basic nlp operations on a fairy tale using NLTK &spaCy
